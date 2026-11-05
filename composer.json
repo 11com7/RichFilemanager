@@ -1,5 +1,5 @@
 {
-  "name": "ppp01/richfilemanager",
+  "name": "11com7/richfilemanager",
   "description": "RichFilemanager - highly customizable open-source file manager",
   "type": "project",
   "keywords": [
@@ -27,10 +27,10 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/ppp01/richfilemanager-php"
+      "url": "https://github.com/11com7/RichFilemanager-PHP"
     }
   ],
   "require": {
-    "ppp01/richfilemanager-php": "dev-master"
+    "11com7/richfilemanager-php": "dev-master"
   }
 }
